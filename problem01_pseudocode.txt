@@ -1,0 +1,6 @@
+Start
+Input num1
+Input num2
+Process sum = num1+num2
+Display sum
+End

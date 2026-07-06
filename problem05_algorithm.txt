@@ -1,0 +1,7 @@
+Start Program
+get the first item price (price1)
+get the second item price (price2)
+get the third item price (price3)
+add all item price to get a sum
+Display sum of the item
+End

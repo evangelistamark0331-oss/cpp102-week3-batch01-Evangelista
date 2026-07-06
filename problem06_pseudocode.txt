@@ -1,0 +1,6 @@
+Start
+Input the hourly rate
+Input the overtime rate
+Process sum = hourly rate x overtime rate
+Display sum 
+End

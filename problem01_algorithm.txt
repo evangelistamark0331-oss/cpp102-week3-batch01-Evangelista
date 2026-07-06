@@ -1,0 +1,6 @@
+Start Program
+Get the first allowance from mother mark it as (num1)
+Get the second allowance from father mark it as (num2)
+Add the num1 and num2 together, and store the result as sum
+Display sum
+End

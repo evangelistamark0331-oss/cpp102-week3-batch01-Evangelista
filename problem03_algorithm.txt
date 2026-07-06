@@ -1,0 +1,6 @@
+Start Program
+Get the hourly rate to the part time
+Get the number of hours worked by the part time
+Multiply the hours rate to number of hours worked
+Display the number of gross pay
+End

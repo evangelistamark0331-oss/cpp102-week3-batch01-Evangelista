@@ -1,0 +1,6 @@
+Start Program
+First get the given length in a garden plot(Length)
+Second get the given width in a graden plot(Width)
+Add legth and width to get the area needed
+Display the sum of area
+End

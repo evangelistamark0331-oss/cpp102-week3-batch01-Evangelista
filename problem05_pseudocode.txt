@@ -1,0 +1,7 @@
+Start 
+Input price1
+Input price2
+Input price3
+Process sum = price1+price2+price3
+Display sum
+End

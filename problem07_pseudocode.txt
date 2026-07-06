@@ -1,0 +1,7 @@
+Start
+Input quiz average
+Input exam score
+Input project score
+Process sum = quiz average + exam score + project score
+Display sum 
+End

@@ -1,0 +1,7 @@
+Start
+Input score1
+Input score2
+Input score3
+Process sum = Score1+Score2+Score3 
+Display sum
+End

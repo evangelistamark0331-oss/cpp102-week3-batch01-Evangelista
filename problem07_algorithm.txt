@@ -1,0 +1,7 @@
+Start Program
+Get the student quiz average
+Get the student exam score
+Get the student project score
+Add all and divide it by 3 to get the final grade 
+Display the final grade
+End

@@ -1,0 +1,6 @@
+Start Process
+get the hourly rate of employee for regular hours
+get the hourly rate of employee for overtime hours
+Multiply the employee regular hours pay and the overtime pay of employee to get the gross pay
+Display the total gross pay
+End

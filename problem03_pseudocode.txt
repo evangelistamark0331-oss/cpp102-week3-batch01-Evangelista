@@ -1,0 +1,6 @@
+Start
+Input Hourly Rate 
+Input Hours Worked 
+Process Sum = Hourly Rate+Hours Worked
+Display Sum
+End

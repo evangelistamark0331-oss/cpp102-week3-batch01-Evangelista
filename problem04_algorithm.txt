@@ -1,0 +1,7 @@
+Start Program
+First Get the first student score(score1)
+Second Get the Second student score(score2)
+Third Get the Third student score(score3)
+Add all the three scores together and divide it by 3
+Display Sum
+End
